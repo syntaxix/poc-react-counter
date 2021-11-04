@@ -18,7 +18,7 @@ class Counter extends React.Component {
           onClick={() => this.props.onDelete(this.props.counter.id)}
           className="btn btn-danger btn-sm m-2"
         >
-          Delete Item
+          Delete Item Dev on Branch Dev
         </button>
       </div>
     );
